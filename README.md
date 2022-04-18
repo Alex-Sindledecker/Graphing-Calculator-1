@@ -1,5 +1,5 @@
 # Graphing-Calculator-1
-A simple graphing calculator written in python. Supports the following functions: <br/>
+Graphing calculator written in python. Supports the following functions: <br/>
 * sin
 * cos
 * tan
