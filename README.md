@@ -17,5 +17,5 @@ Use the mouse wheel to zoom in and out and click and drag to move the viewport.
 <br/>
 ![Example Graph 1](img/Example1.PNG)
 #### Graph Example 2:
-![equation](https://latex.codecogs.com/svg.image?{\color{White}&space;x^2&plus;sin(x)&plus;ln(x^)})<br/>
+![equation](https://latex.codecogs.com/svg.image?{\color{White}&space;x^2&plus;sin(x)&plus;ln(x^2)})<br/>
 ![Example graph 2](img/Example2.PNG)
